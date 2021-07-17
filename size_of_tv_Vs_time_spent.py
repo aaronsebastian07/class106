@@ -24,3 +24,5 @@ def setup():
     findCorrelation(datasource)
 
 setup()
+
+#correlation between the type of TV and average time spent watching TV is in a week=-0.2159648

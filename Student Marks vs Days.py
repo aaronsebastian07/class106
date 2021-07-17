@@ -24,3 +24,5 @@ def setup():
     findCorrelation(datasource)
 
 setup()
+
+#correelation between marks in percentage and days present = 0.862889476
